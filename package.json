@@ -1,6 +1,6 @@
 {
   "name": "@habistack/public-web",
-  "version": "0.75.2",
+  "version": "0.75.3",
   "private": false,
   "scripts": {
     "dev": "next dev",
